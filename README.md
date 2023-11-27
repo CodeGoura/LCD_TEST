@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #LCD Display "Hello, World!" Example
 Overview
 This repository contains a simple example code for displaying the classic "Hello, World!" message on an LCD display. The example demonstrates how to interface with an LCD using a microcontroller or similar device and serves as a starting point for projects involving LCD displays.
@@ -49,3 +50,8 @@ This example code is based on [main] by [Gourahari], which provides a foundation
 
 License
 This project is licensed under the [GPL] - see the LICENSE file for details.
+=======
+# LCD_TEST
+# LCD Display "Hello, World!" Example
+
+>>>>>>> Stashed changes
